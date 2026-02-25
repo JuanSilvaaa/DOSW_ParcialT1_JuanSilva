@@ -55,3 +55,24 @@ Como Estudiante quiero solicitar un equipo para poder realizar mis trabajos a en
 ## Punto 5 - documento de requerimientos
 
 Documento de requerimientos en la carpeta "requeriments"
+
+## Punto 6 - descomposicion de tareas asociadas
+
+- EPICA: Solicitud de reserva por un usuario
+- HISTORIA DE USUARIO: Estudiante reserva un equipo en la plataforma de silabinfo
+- TAREAS:
+  - Front:
+    - Realizar manual de identidad con los colores de la escuela y con bunea tipologia
+    - Realizar los mockups de la interfaz grafica con el flujo
+    - Programar en react los mockups
+    - Desplegar
+    - realizar conexion con back
+  - Back:
+    - Realizar diagramas de caso de uso
+    - Realizar dragramas de clases
+    - Realizar diagramas de secuencias 
+    - Realizar pruebas 
+    - Codificar el diagrama de clases con .java con el flujo de diagrama de secuencias y que funcionen las pruebas 
+    - Conectar a base de datos 
+    - Desplegar
+    - Conectar a front
