@@ -36,3 +36,18 @@ Podemos implementar los siguientes patrones de diseño:
 
 1) Tener los colores alusivos al programa de ingenieria de sistemas el cual es verde claro.
 2) La aplicacion debe ser responsive y tener tipologia legible.
+
+## Punto 4 - Diagramas de casos de uso
+
+caso de uso - Estudiante solicita equipo
+historia:
+Como Estudiante quiero solicitar un equipo para poder realizar mis trabajos
+
+![imagen de solicitud](C:\Users\juan.silva-c\Desktop\DOSW_ParcialT1_JuanSilva\docs\images\CasoDeUso1.png)
+----
+
+caso de uso - Silabinfo Solicita informacion a enlace
+historia:
+Como Estudiante quiero solicitar un equipo para poder realizar mis trabajos a enlace para poder administrar mi sistema
+
+![imagen de solicitud de informacion](C:\Users\juan.silva-c\Desktop\DOSW_ParcialT1_JuanSilva\docs\images\CasoDeUso2.png)
