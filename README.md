@@ -51,3 +51,7 @@ historia:
 Como Estudiante quiero solicitar un equipo para poder realizar mis trabajos a enlace para poder administrar mi sistema
 
 ![imagen de solicitud de informacion](C:\Users\juan.silva-c\Desktop\DOSW_ParcialT1_JuanSilva\docs\images\CasoDeUso2.png)
+
+## Punto 5 - documento de requerimientos
+
+Documento de requerimientos en la carpeta "requeriments"
