@@ -76,3 +76,24 @@ Documento de requerimientos en la carpeta "requeriments"
     - Conectar a base de datos 
     - Desplegar
     - Conectar a front
+
+## Punto 7 - Diagrama de clases
+
+![Diagrama de clases](C:\Users\juan.silva-c\Desktop\DOSW_ParcialT1_JuanSilva\docs\images\DiagramaDeClases.png)
+
+## (Si la imagen no es muy clara, el astah queda en la carpeta UML)
+### PRESENCIA DE PRINCIPIOS SOLID
+En este digrama de clases, tenemos la presencia single responsability porque cada una de las clases presentes
+se encarga de una sola tarea como por ejemplo la de reservar, cada aula es la que termina haciendo su propia reserva
+mirando si ella misma esta disponible y si el usuario solicitante es valido para darle la reserva o no.
+Adicionalmente, tambien se encuentra presente el principio de OPEN/CLOSE ya que se crea la clase principal silabinfo 
+como independiente y padre de todo el programa por si en un futuro quiere añadir mas funcionabilidades que no sean solo
+reservar estas salas, podria ser, gestionar horarios, crear materias, etc. todo con las necesidades de la universidad.
+
+### EXPLICACION DEL DIAGRAMA
+
+Este diagrama lleva todo el flujo en donde, sacamos la informacion de los usuarios de donde es proveniente
+y los transformamos en su respectivo tipo, ya sea estudiante, monitor o profesor. Cuando en la aplicacion se utilice
+la opcion de "reservar", el programa internamente validara el tipo de usuario y segun cual sea la reserva ira a 
+reservarla en una franja horaria si esta disponible o no, cada espacio o equipo, conoce su horario, disponibilidad 
+prestaciones, y capacidad para el calculo de esta
