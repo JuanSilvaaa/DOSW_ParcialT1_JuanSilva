@@ -22,3 +22,17 @@ Podemos implementar los siguientes patrones de diseño:
     c) Lo usariamos para asegurarnos de que cada solicitud tenga una unica instancia y que la solicitud de una 
        sala no pida una maquina o una oficina.
 
+## Punto 3 - Requerimientos del sistema
+
+### Funcionlaes (3)
+
+# este cumple con el patron de diseño singleton al especificar que se solicita
+1) Realizar una solicitud de un espacio o equipo y determinar si se le puede brindar o no segun 
+   el tipo de usuario. 
+2) Utilizar la informacion de las materias desde la plataforma enlace
+3) Utilizar la informacion de los profesores desde recursos humanos
+
+### No funcionales
+
+1) Tener los colores alusivos al programa de ingenieria de sistemas el cual es verde claro.
+2) La aplicacion debe ser responsive y tener tipologia legible.
