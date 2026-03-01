@@ -97,3 +97,5 @@ y los transformamos en su respectivo tipo, ya sea estudiante, monitor o profesor
 la opcion de "reservar", el programa internamente validara el tipo de usuario y segun cual sea la reserva ira a 
 reservarla en una franja horaria si esta disponible o no, cada espacio o equipo, conoce su horario, disponibilidad 
 prestaciones, y capacidad para el calculo de esta
+
+.
